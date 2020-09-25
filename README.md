@@ -9,6 +9,10 @@ Just another Human passing through, I guess?
   - Discord: `kindlich#9060`
   - GitHub: Just ping me
   - Mail: kindlich@gmx.net
+  
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=kindlich&show_icons=true&theme=graywhite" alt="ferenco's stats" width="320px"/>
+ 
 
 <!--
 **kindlich/kindlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
