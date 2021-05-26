@@ -2,16 +2,15 @@
 
 Just another Human passing through, I guess?
 
-- :factory: Currently spending time in the [CraftTweaker organization](https://github.com/CraftTweaker)
+- :factory: Currently spending time in the [ZenCodeLang organization](https://github.com/ZenCodeLang)
 - 🌱 Currently learning CS at Uni
-- :night_with_stars: Currently interested in the [hacktoberfest 2020](https://hacktoberfest.digitalocean.com)
 - 📫 How to reach me: 
   - Discord: `kindlich#9060`
   - GitHub: Just ping me
   - Mail: kindlich@gmx.net
   
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=kindlich&show_icons=true&theme=graywhite" alt="ferenco's stats" width="320px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=kindlich&show_icons=true&theme=graywhite" alt="kindlich's stats" width="320px"/>
  
 
 <!--
